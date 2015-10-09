@@ -1,0 +1,23 @@
+{
+  "name": "python-reference",
+  "version": "0.1.0",
+  "description": "A python reference based on \"Introduction to Python\", by Jessica McKeller from Orielly.",
+  "main": "readme.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChetHarrison/python-reference.git"
+  },
+  "keywords": [
+    "python",
+    "reference"
+  ],
+  "author": "Chet Harrison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChetHarrison/python-reference/issues"
+  },
+  "homepage": "https://github.com/ChetHarrison/python-reference#readme"
+}
